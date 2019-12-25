@@ -1,3 +1,0 @@
-/home/roman/CLionProjects/vektor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/roman/CLionProjects/vektor/cmake-build-debug/CMakeFiles/vektor.dir
-/home/roman/CLionProjects/vektor/cmake-build-debug/CMakeFiles/edit_cache.dir
